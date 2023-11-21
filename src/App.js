@@ -89,7 +89,7 @@ function App() {
             GitHub{" "}
           </a>
           and hosted on
-          <a href="https://github.com/chichi5454" target="blank">
+          <a href="https://cerulean-hotteok-acfd32.netlify.app/" target="blank">
             {" "}
             Netlify.{" "}
           </a>
