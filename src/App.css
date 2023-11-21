@@ -60,3 +60,18 @@ button:hover {
   max-width: 33.333%;
   background-color: var(--dark);
 }
+/* media queries */
+@media (max-width: 530px) {
+  .calculator {
+    width: 90%;
+  }
+
+  .operators button {
+    padding: 10px;
+  }
+  .footer {
+    width: 90%;
+    justify-content: center;
+    text-align: center;
+  }
+}
