@@ -1,0 +1,16 @@
+/** @format */
+
+:root {
+  --primary: #a6b1e1;
+  --dark: #1a1831;
+  --light: #eee;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto Mono", monospace;
+}
+body {
+  background-color: var(--light);
+}
