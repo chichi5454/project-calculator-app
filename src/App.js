@@ -84,7 +84,9 @@ function App() {
       <div className="footer">
         <p>
           Developed by Lauryn Mutai
-          <a href="https://github.com/chichi5454" target="blank">
+          <a
+            href="https://github.com/chichi5454/project-calculator-app.git"
+            target="blank">
             {" "}
             GitHub{" "}
           </a>
